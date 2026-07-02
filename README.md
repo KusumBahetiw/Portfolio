@@ -2,7 +2,7 @@
 
 A premium, high-converting, single-page personal portfolio website designed for a financial professional and Mutual Fund/SIP Distributor. Built with a modern "fintech" aesthetic featuring deep dark modes, bullish emerald gradients, and a typography-driven layout.
 
-**Live Demo:** [View Live Site Here](https://terrestrialyt.github.io/YOUR-REPO-NAME-HERE) *(Update this link after enabling GitHub Pages)*
+**Live Demo:** [View Live Site Here](https://kusumbahetiw.github.io/Portfolio/)
 
 ## ✨ Features
 * **Premium Fintech UI/UX:** Deep midnight backgrounds with CSS-generated trading grid overlays and glowing emerald gradients.
